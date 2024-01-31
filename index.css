@@ -1,0 +1,127 @@
+body{
+    padding: 2%;
+   background-color: black;
+}
+
+.home{
+    background-image:url(./img/pexels-alfonso-escalante-2533092.jpg);
+    min-height: 750px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-wrap: wrap;
+    
+}
+.nav{
+    display: flex;
+    margin-left: 80%;
+    list-style: none;
+    font-size: larger;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: orange;
+   
+   
+}
+#n1{
+    margin-left: 20%;
+}
+#n2{
+    margin-left: 20%;
+}
+#hed{
+    position: absolute;
+    top: 3%;
+    color: orange;
+
+}
+#tag{
+  position: absolute;
+  top: 33%;
+  left: 18%;
+  color: orangered;
+}
+#tag1{
+    position: absolute;
+    left: 18%;
+    top: 39%;
+    color: black;
+
+}
+img{
+    height: 200px;
+    width: 400px;
+}
+marquee{
+    margin-top: 490px;
+
+}
+#b1{
+    margin-left: 500px;
+    background-color: black;
+    color: orange;
+
+}
+
+#b1:hover{
+    background-color: black;
+    color: red;
+}
+#b2{
+    margin-left: 250px;
+    background-color:orange;
+    color: black;
+}
+#b2:hover{
+    background-color: black;
+    color: red;}
+.about{
+    background-image: url(./img/5.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+}
+#abh1{
+    color: orangered;
+    text-align: center;
+    padding-top: 5%;
+}
+.place{
+   display: flex;
+   margin-left: 90px;
+   padding-top: 2%;
+   border-radius: 25px;
+}
+
+#del{
+    margin-left: 30px;
+    border: solid;
+    background-color: rgba(240, 248, 255, 0.374);
+
+}
+#del:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+#red{
+    margin-left: 30px;
+    border: solid;
+    background-color: rgba(240, 248, 255, 0.368);
+}
+#red:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#taj{
+    border: solid;
+    background-color: rgba(240, 248, 255, 0.396);
+}
+#taj:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#p1{text-align: center;}
+
+
